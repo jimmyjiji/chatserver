@@ -29,6 +29,6 @@ The following is instructions on how to run the project and the settings availab
 `MOTD: Message to display to the client when connected`  
 `ACCOUNTS_FILE: File containing username and password data to be loaded upon`  
 
-Users are created and stored in SQLite database. 
-Passwords are hashed with salt for security 
+Users are created and stored in SQLite database.  
+Passwords are hashed with salt for security  
 Project is almost completely thread-safe but it is for the most part :sweat_smile:
