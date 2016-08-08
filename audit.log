@@ -1,0 +1,29 @@
+05/06/16-07:03 PM, jimmy, LOGIN, 127.0.0.1:3200, success, ey
+05/06/16-07:04 PM, bob, LOGIN, 127.0.0.1:3200, success, ey
+05/06/16-07:04 PM, bob, CMD, /chat, success, client
+05/06/16-07:04 PM, bob, MSG, to, jimmy, hey
+05/06/16-07:04 PM, jimmy, MSG, from, bob, hey
+05/06/16-07:04 PM, jimmy, MSG, to, bob, bruh
+05/06/16-07:04 PM, bob, MSG, from, jimmy, bruh
+05/06/16-07:04 PM, bob, MSG, to, jimmy, yo
+05/06/16-07:04 PM, jimmy, MSG, from, bob, yo
+05/06/16-07:04 PM, bob, MSG, from, jimmy, whats good
+05/06/16-07:04 PM, jimmy, MSG, to, bob, whats good
+05/06/16-07:04 PM, bob, LOGOUT, error
+05/06/16-07:04 PM, jimmy, LOGOUT, error
+05/06/16-07:07 PM, jimmy, LOGIN, 127.0.0.1:3200, success, ey
+05/06/16-07:07 PM, jimmy, LOGIN, 127.0.0.1:3200, success, ey
+05/06/16-07:07 PM, jimmy, LOGIN, 127.0.0.1:3200, success, ey
+05/06/16-07:07 PM, jimmy, LOGIN, 127.0.0.1:3200, failure, ERR 00 USER NAME TAKEN
+05/06/16-07:07 PM, jimmy, LOGOUT, error
+05/06/16-07:07 PM, jimmy, LOGOUT, error
+05/06/16-07:07 PM, jimmy, LOGOUT, error
+05/06/16-07:10 PM, jimmy, LOGIN, 127.0.0.1:3200, failure, Bad Connection
+05/06/16-07:10 PM, jimmy, LOGIN, 127.0.0.1:3200, failure, Bad Connection
+05/06/16-07:10 PM, jimmy, LOGIN, 127.0.0.1:3200, failure, Bad Connection
+05/06/16-07:10 PM, jimmy, LOGIN, 127.0.0.1:3200, failure, Bad Connection
+05/06/16-07:10 PM, jimmy, LOGIN, 127.0.0.1:3200, success, ey
+05/06/16-07:10 PM, jimmy, LOGIN, 127.0.0.1:3200, failure, ERR 00 USER NAME TAKEN
+05/06/16-07:10 PM, jimmy, CMD, /time, success, client
+05/06/16-07:11 PM, jimmy, LOGOUT, error
+05/06/16-07:12 PM, bob, LOGIN, 127.0.0.1:3200, success, ey
