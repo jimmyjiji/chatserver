@@ -7,7 +7,7 @@ The following is instructions on how to run the project and the settings availab
 ##Client Program##
 `./client [-hcv] [-a FILE] NAME SERVER_IP SERVER_PORT`  
 `-a FILE Path to the audit log file`  
-`-h Displays this help menu, and returns EXIT_SUCCESS. Requests to server to create a new user`  
+`-h Displays this help menu, and returns EXIT_SUCCESS.`  
 `-c Requests to server to create a new user`  
 `-v Verbose print all incoming and outgoing protocol verbs & content.`  
 `NAME: The username to display when chatting.`  
