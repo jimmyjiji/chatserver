@@ -1,4 +1,4 @@
-#Chat Server Project#  
+#Chat Server Project  
 Works best on Ubuntu
 
 Allow multiple users to chat to one another using the terminal.
